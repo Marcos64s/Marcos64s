@@ -10,10 +10,10 @@
 
 <p align=center>
   <a href="https://github.com/FastQR">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/FastQR/FastQR?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/FastQR?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/FastQR?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
